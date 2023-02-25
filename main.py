@@ -53,20 +53,20 @@ final_answer = [
 
 wanna_play_again = [
     "Do you have another question to ask?",
-    "have another question to ask?",
-    "wanna go deeper?",
+    "Have another question to ask?",
+    "Wanna go deeper?",
     "Is there anything else?",
-    "anything else?",
+    "Anything else?",
     "Do you need more clarity?",
-    "need more clarity?"
+    "Need more clarity?"
 ]
 
 bye = [
-    "byeeeee!",
-    "bye <3",
-    "until next time <3",
-    "farewell!",
-    "see ya!"]
+    "Byeeeee!",
+    "Bye <3",
+    "Until next time <3",
+    "Farewell!",
+    "See ya!"]
 
 
 
